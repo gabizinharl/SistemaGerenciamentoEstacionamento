@@ -19,14 +19,14 @@ Para acessar a área de configurações e alterar a capacidade do estacionamento
 
 ### Como Usar
 
-1. **Compilar o código:**
+1. *Compilar o código:*
    Para compilar o código, basta executar o seguinte comando na raiz do projeto (onde os arquivos .java estão localizados):
-   bash
+   ```bash
    javac *.java
 
  2. **Executar o programa:**
 
 Após compilar o código, execute o sistema rodando o arquivo Main.java com o seguinte comando:
 
-bash
+```bash
 java Main
