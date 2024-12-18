@@ -13,9 +13,9 @@ Swing: Utilizado para a criação da interface gráfica (GUI), sem o uso de bibl
 Configurações de Administração
 Para acessar a área de configurações e alterar a capacidade do estacionamento ou as tarifas, será necessário fazer login com as credenciais de administrador.
 
-*Usuário:* admin
+**Usuário:** admin
 
-*Senha:* admin
+**Senha:** admin
 
 ### Como Usar
 
